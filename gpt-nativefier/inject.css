@@ -1,0 +1,11 @@
+body, html {
+  padding-top: 15px !important;
+}
+
+html, body {
+  -webkit-app-region: drag !important;
+}
+
+button, input, textarea, a {
+  -webkit-app-region: no-drag !important;
+}

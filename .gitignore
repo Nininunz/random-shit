@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+
+# Nativefier
+*.app
+*.asar
+
+# Misc
+*.swp
+*.swo
+*.tmp
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# System
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.*

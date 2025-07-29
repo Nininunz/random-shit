@@ -4,8 +4,8 @@ This repository contains shortcuts to miscellaneous scripts, mini apps, and util
 
 ## Shortcuts
 
-- ~~[**gpt-nativefier**](gpt-nativefier/README.md): Create a native macOS app for ChatGPT on Intel Macs using Nativefier.~~ *Deprecated - Use [gpt-electron](gpt-electron/README.md) instead.*
-- [**gpt-electron**](gpt-electron/README.md): macOS app for ChatGPT on Intel Macs using Electron.random-shit
+- ~~[**gpt-nativefier**](gpt-nativefier/README.md): Create a native macOS app for ChatGPT on Intel Macs using Nativefier.~~ *Deprecated - Use [gpt-electron](https://github.com/Nininunz/gpt-electron) instead.*
+- [**gpt-electron**](https://github.com/Nininunz/gpt-electron): macOS app for ChatGPT on Intel Macs using Electron.random-shit
 
 ---
 
